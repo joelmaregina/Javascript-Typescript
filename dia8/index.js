@@ -160,4 +160,4 @@ const teste2 = esperaAi('qlq', 5000);
 console.log(teste2); // Promise { <pending> } - Pois ela ainda está executando, não esperamos ela terminar e já a chamamos 
 // Estados de uma promisse: Pending, Fulfilled, Rejected
 
-//***************** XMLHttpRequest + PROMISSES ********************
+//***************** BABEL ********************
