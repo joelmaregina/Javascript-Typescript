@@ -1,4 +1,4 @@
-// publlic - Acessivel dentro da classe, fora da classe, e em todas as subclasses dessa classe (Herança)
+// public - Acessivel dentro da classe, fora da classe, e em todas as subclasses dessa classe (Herança)
 // private - Só é acessível dentro da classe em que ele foi criado
 export class Empresa {
   readonly nome: string; // Sem (public/private/protected) é automaticamente public. Inicializado pelo construtor
