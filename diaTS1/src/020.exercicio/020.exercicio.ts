@@ -1,3 +1,5 @@
+import '../035.video-exercise/035.video-exercise/';
+
 export function funcao(this: Date, name: string, age: number): void {
   console.log(this);
   console.log(name, age);
