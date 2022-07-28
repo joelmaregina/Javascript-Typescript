@@ -32,3 +32,4 @@ const db3 = Database.getDatabase('localhost', 'root', '123456'); // Nesta vez e 
 db2.connect();
 
 console.log(db1 === db2); //true
+console.log(db2 === db3); //true
